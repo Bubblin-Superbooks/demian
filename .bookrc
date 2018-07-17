@@ -6,6 +6,7 @@
     "HEAD": "html"
   },
   "name": "Demian",
+  "has_page_numbers": true,
   "type": "text",
   "book_id": 586
 }
